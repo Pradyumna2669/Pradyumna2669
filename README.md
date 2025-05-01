@@ -33,8 +33,8 @@
 ---
 
 ## 📈 GitHub Stats
-![Pradyumna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![Pradyumna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pradyumna2669&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradyumna2669&layout=compact)
 
 ---
 
