@@ -45,4 +45,4 @@
 ---
 
 📫 Reach Me:  
-[GitHub](https://github.com/your-username) | [LinkedIn](#) | [Email](mailto:youremail@example.com)
+[GitHub](https://github.com/Pradyumna2669) | [LinkedIn](#) | [Email](mailto:pradyumnagkulkarni93@gmail.com)
